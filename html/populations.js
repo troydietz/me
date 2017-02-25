@@ -1,6 +1,104 @@
 var populations = [
-    {
-city": "Moscow",
+{
+    "city": "Tokyo–Yokohama",
+    "country": "Japan",
+    "population": 37843000,
+    "latitude": 35.4437078,
+    "longitude": 139.6380256
+  },
+{
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "population": 30539000,
+    "latitude": -6.2087634,
+    "longitude": 106.845599
+  },
+{
+    "city": "Delhi",
+    "country": "India",
+    "population": 24998000,
+    "latitude": 28.6139391,
+    "longitude": 77.2090212
+  },
+{
+    "city": "Manila",
+    "country": "Other",
+    "population": 24123000,
+    "latitude": 14.5995124,
+    "longitude": 120.9842195
+  },
+{
+    "city": "Seoul–Gyeonggi–Incheon",
+    "country": "Other",
+    "population": 23480000,
+    "latitude": 37.4562557,
+    "longitude": 126.7052062
+  },
+{
+    "city": "Shanghai",
+    "country": "China",
+    "population": 23416000,
+    "latitude": 31.230416,
+    "longitude": 121.473701
+  },
+{
+    "city": "Karachi",
+    "country": "Pakistan",
+    "population": 22123000,
+    "latitude": 24.8614622,
+    "longitude": 67.0099388
+  },
+{
+    "city": "Beijing",
+    "country": "China",
+    "population": 21009000,
+    "latitude": 39.904211,
+    "longitude": 116.407395
+  },
+{
+    "city": "New York City",
+    "country": "United States",
+    "population": 20630000,
+    "latitude": 40.7127837,
+    "longitude": -74.0059413
+  },
+{
+    "city": "Guangzhou–Foshan",
+    "country": "China",
+    "population": 20597000,
+    "latitude": 23.0402798,
+    "longitude": 113.1018582
+  },
+{
+    "city": "São Paulo",
+    "country": "Brazil",
+    "population": 20365000,
+    "latitude": -23.5505199,
+    "longitude": -46.6333094
+  },
+{
+    "city": "Mexico City",
+    "country": "Mexico",
+    "population": 20063000,
+    "latitude": 19.4326077,
+    "longitude": -99.133208
+  },
+{
+    "city": "Mumbai",
+    "country": "India",
+    "population": 17712000,
+    "latitude": 19.0759837,
+    "longitude": 72.8776559
+  },
+{
+    "city": "Osaka–Kobe–Kyoto",
+    "country": "Japan",
+    "population": 17444000,
+    "latitude": 35.0116363,
+    "longitude": 135.7680294
+  },
+{
+    "city": "Moscow",
     "country": "Other",
     "population": 16170000,
     "latitude": 55.755826,
@@ -938,4 +1036,3 @@ city": "Moscow",
     "longitude": 113.392725
   }
 ]
-
